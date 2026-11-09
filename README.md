@@ -2,8 +2,4 @@
 
 ![](https://komarev.com/ghpvc/?username=shun999)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shun999)]
-(https://github.com/anuraghazra/github-readme-stats)
-
-
 ![Jokes Card](https://readme-jokes.vercel.app/api)
